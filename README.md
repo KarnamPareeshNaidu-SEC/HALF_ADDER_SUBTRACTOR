@@ -59,3 +59,7 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c83b53d-044d-4bbc-abb2-027ee6c4741c" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/690ad7e7-29ea-4472-9fb0-8d6539ec805b" />
+
+
